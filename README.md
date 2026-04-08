@@ -13,10 +13,10 @@ This is a simple text-based Hangman game developed using Python.
 3. Enter letters to guess the word
 
 ## 📸 Output
-![Output](Task1.png)
+![Output](Tssk1.png)
 
 ## 🚀 Author
-Lavanya
+Lakshmilavanya
 
 
 
