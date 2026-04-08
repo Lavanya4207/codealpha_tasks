@@ -1,3 +1,26 @@
+# Hangman Game (Python)
+
+This is a simple text-based Hangman game developed using Python.
+
+## 📌 Features
+- Random word selection
+- User guesses letters
+- Limited attempts (6 chances)
+
+## ▶️ How to Run
+1. Open the file in VS Code
+2. Run the program
+3. Enter letters to guess the word
+
+## 📸 Output
+![Output](Task1.png)
+
+## 🚀 Author
+Lavanya
+
+
+
+
 # Stock Portfolio Tracker (Python)
 
 This project is a simple stock portfolio tracker developed using Python. It allows users to input the quantity of stocks they own and calculates the total investment value based on predefined stock prices.
